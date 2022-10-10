@@ -12,6 +12,10 @@ Gitee https://gitee.com/Moxin1044/kali-linux-docker
 
 构建时间：2022年10月10日
 
+博客地址：https://blog.easyctf.cn/Moxin/50834.html
+
+https://www.cnblogs.com/M0x1n/p/Kali-Linux-for-Docker.html
+
 构建内容：基于原系统版本中，增加了基础系统和SSH工具，做到即用即启。
 
 ![](image-20221010150113014.png)
