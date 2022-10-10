@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+
+  kali:
+    build: .
+    image: m0x1n/kali-rolling
+    restart: always
+    ports:
+      - "22:22"
+    stdin_open: true # docker run -i
+    tty: true       # docker run -t
+    command: /bin/bash
